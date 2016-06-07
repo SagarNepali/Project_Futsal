@@ -2,9 +2,29 @@
 
 <h1> <u> User Registration </u> </h1>
 <form method="POST">
+     <div class="form-group">
+        <label> First Name </label>
+        <input type="text" name="firstname" class="form-control" placeholder="Enter First name"  />
+    </div>
+    <div class="form-group">
+        <label> Last Name </label>
+        <input type="text" name="lastname" class="form-control" placeholder="Enter last name"  />
+    </div>
+    <div class="form-group">
+        <label> Email </label>
+        <input type="email" name="email" class="form-control" placeholder="Enter email id"  />
+    </div>
+    <div class="form-group">
+        <label> Phone </label>
+        <input type="text" name="phone1" class="form-control" placeholder="Enter phone number"  />
+    </div>
+    <div class="form-group">
+        <label> Phone 2 </label>
+        <input type="text" name="phone2" class="form-control" placeholder="Enter other phone number where we may contact you or your team member"  />
+    </div>
     <div class="form-group">
         <label> Username </label>
-        <input type="password" name="password" class="form-control" placeholder="Enter password"  />
+        <input type="text" name="username" class="form-control" placeholder="Enter Username"  />
     </div>
     <div class="form-group">
         <label> Password </label>
@@ -14,14 +34,7 @@
         <label> Retype Password </label>
         <input type="password" name="re_password" class="form-control" placeholder="Retype password"  />
     </div>    
-    <div class="form-group">
-        <label> Phone </label>
-        <input type="text" name="phone1" class="form-control" placeholder="Enter phone number"  />
-    </div>
-    <div class="form-group">
-        <label> Phone 2 </label>
-        <input type="text" name="phone2" class="form-control" placeholder="Enter other phone number where we may contact you or your team member"  />
-    </div>
+    
     <div class="form-group">
         <label> Team's Name </label>
         <input type="text" name="team_name" class="form-control" placeholder="Enter team's name"  />
