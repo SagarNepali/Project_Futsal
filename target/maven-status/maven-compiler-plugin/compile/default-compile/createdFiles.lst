@@ -1,1 +1,14 @@
+com\dumbweb\projectfutsal\controller\dao\TimingDAO.class
+com\dumbweb\projectfutsal\dao\impl\BookingDAOImpl.class
+com\dumbweb\projectfutsal\controller\RegisterController.class
+com\dumbweb\projectfutsal\controller\LoginController.class
+com\dumbweb\projectfutsal\entity\Timing.class
+com\dumbweb\projectfutsal\entity\UserDetail.class
+com\dumbweb\projectfutsal\entity\Day.class
+com\dumbweb\projectfutsal\dao\impl\UserDAOImpl.class
+com\dumbweb\projectfutsal\entity\Booking.class
+com\dumbweb\projectfutsal\dao\impl\TimingDAOImpl.class
+com\dumbweb\projectfutsal\controller\dao\BookingDAO.class
+com\dumbweb\projectfutsal\controller\dao\UserDAO.class
 com\dumbweb\projectfutsal\controller\DefaultController.class
+com\dumbweb\projectfutsal\controller\TodaysFixtureController.class
